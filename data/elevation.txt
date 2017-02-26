@@ -1,0 +1,142 @@
+8723970 9.6 ft. above MSL
+8779770 10.4 ft. above MSL
+8574680 4.5 ft. above MSL
+8461490 8.0 ft. above MSL
+8661070 13.4 ft. above MSL
+8577330 5.0 ft. above MSL
+8594900 7.1 ft. above MSL
+9449424 13.3 ft. above MSL
+9450460 15.1 ft. above MSL
+1630000 10.8 ft. above MSL
+8545240 11.6 ft. above MSL
+8467150 3275.2 ft. above MSL
+9410660 N/A
+8728690 6.3 ft. above MSL
+8665530 2.8 ft. above MSL
+8770570 7.0 ft. above MSL
+9410580  ft. above 
+8771510  ft. above 
+1612340 5.3 ft. above MSL
+8573364 9.9 ft. above MSL
+8418150 16.2 ft. above MSL
+9418767 24.8 ft. above MSL
+9451600 12.5 ft. above MSL
+8726724 4.1 ft. above MSL
+9453220 N/A
+9439040 11.9 ft. above MSL
+8658120 5.0 ft. above MSL
+8413320 11.0 ft. above MSL
+9751639 3.5 ft. above MSL
+8410140 21.9 ft. above MSL
+9449880 19.9 ft. above MSL
+9444900 16.7 ft. above MSL
+9443090 10.5 ft. above MSL
+8723170  ft. above 
+8774770 4.6 ft. above MSL
+8637624  ft. above 
+8726520 4.8 ft. above MSL
+8779750  ft. above 
+8652587 2.6 ft. above MSL
+8443970 11.1 ft. above MSL
+9751401 10.2 ft. above MSL
+8635150  ft. above 
+9410230 30.5 ft. above MSL
+9415144 9.1 ft. above MSL
+8449130 7.1 ft. above MSL
+8519483 9.8 ft. above MSL
+9447130 12.5 ft. above MSL
+8737048 9.9 ft. above MSL
+9412110 N/A
+8722670 19.4 ft. above MSL
+8557380 8.5 ft. above MSL
+8419870  ft. above 
+8571892 7.6 ft. above MSL
+8514560  ft. above 
+1890000 11.7 ft. above MSL
+9437540 N/A
+8735180 23.2 ft. above MSL
+9454240 15.1 ft. above MSL
+8725520 4.5 ft. above MSL
+9452400 21.4 ft. above MSL
+9414523 10.1 ft. above MSL
+9413450 7.9 ft. above MSL
+8531680 6.2 ft. above MSL
+9410840 21.5 ft. above MSL
+1615680 8.8 ft. above MSL
+9497645 N/A
+9431647 20.9 ft. above MSL
+9414750 11.5 ft. above MSL
+8575512 4.5 ft. above MSL
+8747437 N/A
+8510560 6.8 ft. above MSL
+9435380 11.2 ft. above MSL
+8720030 7.1 ft. above MSL
+8771450 6.5 ft. above MSL
+8411250  ft. above 
+8724580 7.3 ft. above MSL
+9759110 3.0 ft. above MSL
+8778490 N/A
+8638660  ft. above 
+8638610 11.8 ft. above MSL
+8452660 7.3 ft. above MSL
+1612480 N/A
+9415020 N/A
+9411340 8.6 ft. above MSL
+9439011  ft. above 
+9414290 9.0 ft. above MSL
+8659084  ft. above 
+1770000 5.3 ft. above MSL
+8551910 7.6 ft. above MSL
+8721120  ft. above 
+9455090 N/A
+9461380 17.2 ft. above MSL
+8631044 4.9 ft. above MSL
+9416841 25.4 ft. above MSL
+8570283 6.4 ft. above MSL
+9455920 24.4 ft. above MSL
+8656483 6.2 ft. above MSL
+8536110 10.6 ft. above MSL
+8632200 8.5 ft. above MSL
+8725110 10.1 ft. above MSL
+8729108 6.9 ft. above MSL
+8638863 26.8 ft. above MSL
+8727520 20.5 ft. above MSL
+9455500 N/A
+9455760 25.8 ft. above MSL
+8635750 6.6 ft. above MSL
+9452210 18.0 ft. above MSL
+8764311  ft. above 
+9463502 11.8 ft. above MSL
+1611400 4.8 ft. above MSL
+8775870 15.8 ft. above MSL
+1617760 7.8 ft. above MSL
+9459450 11.7 ft. above MSL
+9454050 15.2 ft. above MSL
+8651370 25.2 ft. above MSL
+8670870 9.6 ft. above MSL
+9457292 16.0 ft. above MSL
+8534720 27.4 ft. above MSL
+9440910 9.7 ft. above MSL
+1840000  ft. above 
+1619000  ft. above 
+8573927 5.8 ft. above MSL
+9410170 N/A
+8761927 5.7 ft. above MSL
+2695540 11.0 ft. above MSL
+9444090 12.4 ft. above MSL
+1820000 5.7 ft. above MSL
+8720218 18.0 ft. above MSL
+9462620 9.7 ft. above MSL
+9432780 N/A
+9755371 4.3 ft. above MSL
+8518750 6.4 ft. above MSL
+8447930 8.1 ft. above MSL
+8761724 8.8 ft. above MSL
+9411270  ft. above 
+9419750 9.5 ft. above MSL
+8516945 9.8 ft. above MSL
+1619910 7.2 ft. above MSL
+9731158  ft. above 
+8454000 9.0 ft. above MSL
+8772440  ft. above 
+8729840 9.2 ft. above MSL$
