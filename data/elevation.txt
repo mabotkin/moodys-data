@@ -139,4 +139,4 @@
 9731158  ft. above 
 8454000 9.0 ft. above MSL
 8772440  ft. above 
-8729840 9.2 ft. above MSL$
+8729840 9.2 ft. above MSL
