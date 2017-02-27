@@ -41,29 +41,28 @@ for i in range(len(c[1])):
 for i in range(len(d[1])):
 	hundred_clusters[d[1][i]].append(hundred[i])
 
-fout = open("../data/clusters.txt","w")
-fout.write("TEN_YEAR:\n")
+#fout = open("../data/clusters/","w")
 for i in range(CLUSTERS):
-	fout.write("CLUSTER " + str(i) + ":\n")
-	fout.write("MEAN: " + str(a[0][i]) + "\n")
+	fout = open("../data/clusters/c_" + str(i) + "_y_10.txt","w")
+	fout.write(str(a[0][i]) + "\n")
 	for j in ten_clusters[i]:
 		fout.write(str(j) + "\n")
-fout.write("TWENTY_YEAR:\n")
+	fout.close()
 for i in range(CLUSTERS):
-	fout.write("CLUSTER " + str(i) + ":\n")
-	fout.write("MEAN: " + str(a[0][i]) + "\n")
+	fout = open("../data/clusters/c_" + str(i) + "_y_20.txt","w")
+	fout.write(str(b[0][i]) + "\n")
 	for j in twenty_clusters[i]:
 		fout.write(str(j) + "\n")
-fout.write("FIFTY_YEAR:\n")
+	fout.close()
 for i in range(CLUSTERS):
-	fout.write("CLUSTER " + str(i) + ":\n")
-	fout.write("MEAN: " + str(a[0][i]) + "\n")
+	fout = open("../data/clusters/c_" + str(i) + "_y_50.txt","w")
+	fout.write(str(c[0][i]) + "\n")
 	for j in fifty_clusters[i]:
 		fout.write(str(j) + "\n")
-fout.write("HUNDRED_YEAR:\n")
+	fout.close()
 for i in range(CLUSTERS):
-	fout.write("CLUSTER " + str(i) + ":\n")
-	fout.write("MEAN: " + str(a[0][i]) + "\n")
+	fout = open("../data/clusters/c_" + str(i) + "_y_100.txt","w")
+	fout.write(str(d[0][i]) + "\n")
 	for j in hundred_clusters[i]:
 		fout.write(str(j) + "\n")
-fout.close()
+	fout.close()
